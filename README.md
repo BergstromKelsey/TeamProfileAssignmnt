@@ -7,6 +7,6 @@ This was a very challening project for myself and most my classmates. I am happy
 To use, simply open this project using node, and enter input in the command line. User will be prompted questions and answers will be appended onto an automated HTML when done. Add as many employees as you would like!
 
 ![teamprofassgnsss1](TeamProfileSS1.png)
-![alt text](TeamProfileSS2.png)
+![teamprofassgnsss2](TeamProfileSS2.png)
 
 ![Walk through video link](https://www.youtube.com/watch?v=i4gRvZZEu1Q)
