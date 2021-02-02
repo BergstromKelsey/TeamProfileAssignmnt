@@ -9,4 +9,4 @@ To use, simply open this project using node, and enter input in the command line
 ![teamprofassgnsss1](TeamProfileSS1.png)
 ![teamprofassgnsss2](TeamProfileSS2.png)
 
-![Walk through video link](https://www.youtube.com/watch?v=i4gRvZZEu1Q)
+[Walk through video link](https://www.youtube.com/watch?v=i4gRvZZEu1Q)
